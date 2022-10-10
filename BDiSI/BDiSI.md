@@ -1,1 +1,1 @@
-[VI](VI)
+[VI tutorial](VI.md)
