@@ -1,3 +1,4 @@
-### <em> I think Linux is a great thing, in the big picture. It's a great hacker's tool, and it has a lot of potential to become something more. </em> <br> - Jamie Zawinski
+### <em> There's innovation in Linux. There are some really good technical features that I'm proud of. There are capabilities in Linux that aren't in other operating systems.
+ </em> <br> - Linus Torvalds
 - [VI tutorial](VI.md)
 - [Linux Permissions](rwx.md)
