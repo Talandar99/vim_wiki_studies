@@ -10,16 +10,14 @@
 - chmod - change mode (rwx access)
 - chown - change owner
 
-### Chmod 0750 i Chmod daje te same uprawnienia a dokładnie:
-##### Chmod 0750 
+### Chmod 0750 i Chmod 750 daje te same uprawnienia a dokładnie:
 - chmod a+rwx,g-w,o-rwx,ug-s,-t 
 - sets permissions so that: 
 	- (U)ser / owner can read, can write and can execute. 
 	- (G)roup can read, can't write and can execute. 
 	- (O)thers can't read, can't write and can't execute.
 
-##### Chmod 750
-- chmod a+rwx,g-w,o-rwx  sets permissions so that:
-	- (U)ser / owner can read, can write and can execute. 
-	- (G)roup can read, can't write and can execute. 
-	- (O)thers can't read, can't write and can't execute.
+##### dlaczego Chmod 0750 ?
+1. Konwencja. Przez bardzo długi czas pisało się 4 symbole ze względu na to jak zapisywana w pamięci jest informacja
+2. ktoś już zadał na stacku pytanie o to dlaczego jest nam potrzebny pierwszy digit więc przeklejam: 
+  - https://serverfault.com/questions/344544/what-is-the-first-digit-for-in-4-digit-octal-unix-file-permission-notation
