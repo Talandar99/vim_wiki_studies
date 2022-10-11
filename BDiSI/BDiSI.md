@@ -2,3 +2,4 @@
 - [VI](VI.md)
 - [Permissions](rwx.md)
 - [core utilities](https://wiki.archlinux.org/title/core_utilities) 
+- [SSH via Terminal](ssh.md)
