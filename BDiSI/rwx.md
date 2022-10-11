@@ -21,3 +21,6 @@
 1. Konwencja. Przez bardzo długi czas pisało się 4 symbole ze względu na to jak zapisywana w pamięci jest informacja
 2. ktoś już zadał na stacku pytanie o to dlaczego jest nam potrzebny pierwszy digit więc przeklejam: 
   - https://serverfault.com/questions/344544/what-is-the-first-digit-for-in-4-digit-octal-unix-file-permission-notation
+3. Ten trzeci bit to tak zwany sticky bit. Więcej o nim tutaj:
+  - https://www.thegeekstuff.com/2013/02/sticky-bit/
+
