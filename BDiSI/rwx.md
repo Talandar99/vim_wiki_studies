@@ -10,7 +10,6 @@
 - chmod - change mode (rwx access)
 - chown - change owner
 
-
 ### Chmod 0750 i Chmod daje te same uprawnienia a dokładnie:
 ##### Chmod 0750 
 - chmod a+rwx,g-w,o-rwx,ug-s,-t 
