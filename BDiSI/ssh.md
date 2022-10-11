@@ -1,6 +1,6 @@
-# SSH via terminal
+# using SSH via terminal
 
-#### wiki pages
+### wiki pages
 - https://wiki.archlinux.org/title/OpenSSH
 - https://wiki.archlinux.org/title/SCP_and_SFTP
 
