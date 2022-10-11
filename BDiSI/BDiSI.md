@@ -2,3 +2,4 @@
 - [VI](VI.md)
 - [Commands](commands.md) 
 - [Permissions](rwx.md)
+- [core utils](https://wiki.archlinux.org/title/core_utilities) 
