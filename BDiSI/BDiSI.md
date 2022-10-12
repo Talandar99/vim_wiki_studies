@@ -5,3 +5,4 @@
 - [SSH via Terminal](ssh.md)
 - [Permissions](rwx.md)
 - [VI](VI.md)
+- [Api testing via curl]
