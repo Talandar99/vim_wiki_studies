@@ -9,6 +9,9 @@
 - It's easier to just open terminal and type than download GUI ssh client
 
 ### how to connect 
+- default port
+`` ssh user@server-address ``
+- custom port
 `` ssh -p port user@server-address ``
 
 ### how to send a file
