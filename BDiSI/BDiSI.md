@@ -8,4 +8,4 @@
 - [Core utilities](https://wiki.archlinux.org/title/core_utilities) 
 - [SSH via Terminal](ssh.md)
 - [vi](VI.md)
-- [curl](https://github.com/Talandar99/vimwiki_studies/edit/main/BDiSI/BDiSI.md)
+- [curl](https://curl.se/)
