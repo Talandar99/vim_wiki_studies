@@ -1,4 +1,4 @@
-# using SSH via terminal
+# Using SSH via terminal
 
 ### wiki pages
 - https://wiki.archlinux.org/title/OpenSSH
