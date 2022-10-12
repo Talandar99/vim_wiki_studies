@@ -5,4 +5,4 @@
 - [SSH via Terminal](ssh.md)
 - [Permissions](rwx.md)
 - [VI](VI.md)
-- [Api testing via curl]
+- [Api testing via curl](https://github.com/Talandar99/vimwiki_studies/edit/main/BDiSI/BDiSI.md)
