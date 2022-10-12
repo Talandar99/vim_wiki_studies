@@ -10,9 +10,9 @@
 
 ### how to connect 
 - default port
-`` ssh user@server-address ``
+`` ssh user@server_address ``
 - custom port
-`` ssh -p port user@server-address ``
+`` ssh -p port user@server_address ``
 
 ### how to send a file
 `` scp remote_user@remote_host:/path/to/remote/file /path/to/local/file ``
