@@ -9,6 +9,7 @@
 - [SSH via Terminal](ssh.md)
 - [vi](VI.md)
 - [How to use Package manager]()
+- [How to start?]()
 
 ### Advanced
 - [Kernel Virtual Machine](kvm.md)
