@@ -11,7 +11,9 @@
 - [SSH via Terminal](ssh.md)
 - [vi](VI.md)
 - [curl](https://curl.se/)
+- Package Manager: How To Use it
 
 ### Advanced
 - [Kernel Virtual Machine](kvm.md)
 - Docker
+- Package Managers: How it works 
