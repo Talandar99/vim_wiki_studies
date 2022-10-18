@@ -10,10 +10,10 @@
 - [Core utilities](https://wiki.archlinux.org/title/core_utilities) 
 - [SSH via Terminal](ssh.md)
 - [vi](VI.md)
-- [How to use Package manager]
+- [How to use Package manager]()
 
 ### Advanced
 - [Kernel Virtual Machine](kvm.md)
-- [Docker]
-- [Package Management System]
+- [Docker]()
+- [Package Management System]()
 - [curl](https://curl.se/)
