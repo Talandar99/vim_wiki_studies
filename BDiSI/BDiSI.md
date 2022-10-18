@@ -1,5 +1,5 @@
 # Linux
-##### <em> There's innovation in Linux. There are some really good technical features that I'm proud of. There are capabilities in Linux that aren't in other operating systems. <br> - Linus Torvalds </em> 
+##### <em> That's what makes Linux so good: you put in something, and that effort multiplies. It's a positive feedback cycle. <br> - Linus Torvalds </em> 
 
 ### Basics
 - [File hierarchy](https://man.archlinux.org/man/file-hierarchy.7.en)
