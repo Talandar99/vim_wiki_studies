@@ -15,11 +15,12 @@
 `` ssh -p port user@server_address ``
 
 ## SCP
+- in general ``scp <source> <destination>``
 
-### how to send a file
+- how to send a file
 `` scp remote_user@remote_host:/path/to/remote/file /path/to/local/file ``
 
-### how to download file via ssh
+- how to download file via ssh
 `` scp /path/to/local/file remote_user@remote_host:/path/to/remote/file ``
 
 
@@ -32,10 +33,10 @@
 
 
 ## Tunneling
-- we can create tunnel to maintain connection with server using L flag:
+- we can create tunnel to maintain connection with server using ``-L`` flag:
 - L local_socket:remote_socket
-  - example `` ssh local_socket:remote_socket login@address``
+  - example `` ssh -L local_socket:remote_socket login@address``
 - L local_socket:host:hostport
-  - example `` ssh local_socket:host:hostport login@address``
+  - example `` ssh -L local_socket:host:hostport login@address``
 
 
