@@ -39,5 +39,8 @@
   - example `` ssh -L local_socket:remote_socket login@address``
 - L local_socket:host:hostport
   - example `` ssh -L local_socket:host:hostport login@address``
+- example from studies 
+``ssh -L 5432:localhost:5432 s99999@example.pl``
+
 
 
