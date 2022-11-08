@@ -28,8 +28,8 @@
 - kenerate key ``ssh-keygen -b 521 -t ecdsa``
   - we can specify ssh password, or not. 
   - If ssh don't have password it will log in automaticly
-- cd into .ssh 
-- copy key to remote server `` ssh-copy-id -i id_ecdsa login@address ``
+- ``cd`` into .ssh directory
+- copy to remote server `` ssh-copy-id -i id_ecdsa login@address ``
 - now we can login using ``ssh 'login@address'``
 
 
